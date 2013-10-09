@@ -1,12 +1,12 @@
-# revision 24395
+# revision 29803
 # category Package
 # catalog-ctan /macros/latex/contrib/tram
-# catalog-date 2011-10-25 13:37:10 +0200
+# catalog-date 2013-04-05 13:20:40 +0200
 # catalog-license lppl
-# catalog-version 0.1
+# catalog-version 0.2
 Name:		texlive-tram
-Version:	0.1
-Release:	2
+Version:	0.2
+Release:	1
 Summary:	Typeset tram boxes in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tram
@@ -49,16 +49,3 @@ argument to the environment.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar fonts tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1-2
-+ Revision: 757076
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.1-1
-+ Revision: 719791
-- texlive-tram
-- texlive-tram
-- texlive-tram
-
