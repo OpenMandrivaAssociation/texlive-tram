@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-tram
 Version:	0.1
-Release:	2
+Release:	3
 Summary:	Typeset tram boxes in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tram
