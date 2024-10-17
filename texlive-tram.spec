@@ -3,7 +3,7 @@ Version:	29803
 Release:	2
 Summary:	Typeset tram boxes in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tram
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tram
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tram.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tram.doc.r%{version}.tar.xz
